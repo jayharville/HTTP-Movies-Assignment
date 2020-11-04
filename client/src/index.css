@@ -75,3 +75,16 @@ body {
   color: red;
   text-align: center;
 }
+button{
+  margin: 1rem;
+}
+form{
+  display: flex;
+flex-direction: column;
+justify-content: space-between;
+width: 50%;
+margin: 0 auto;
+}
+input{
+  margin: 1rem;
+}
